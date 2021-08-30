@@ -180,5 +180,6 @@ var shop = function() {
   }
 };
 
+
 // start first game when page loads
 startGame();
